@@ -347,6 +347,12 @@ article .icon {
   cursor: default;
 }
 
+.small-article{
+  justify-content: flex-start;
+  padding-left: 0.5rem;
+  gap: 1rem;
+}
+
 /* Projects Section */
 
 #projects {
